@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'ấn zô đâyyy',
     title: 'Đấy bây giờ là có thích tớ hay khum? <(￣︶￣)>',
     desc: 'hehe ',
-    btnYes: 'thích chứ :3',
+    btnYes: 'Thích chứ :3',
     btnNo: 'Không! :>',
     question:'heheeee tại sao cậu lại thích tớ? :)))',
     btnReply: 'gửi cho tớ',
