@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không! :>',
     question:'heheeee tại sao cậu lại thích tớ? :)))',
     btnReply: 'gửi cho tớ',
-    reply: '...',
+    reply: 'bị bắt ấn chứ có thích đâu 凸(￣ヘ￣) - tự dưng thích zay thuiiii (ﾉ´ з `)ノ',
     mess: 'dù sao thì tớ vẫn thích cậu hê hê ヽ(・∀・)ﾉ',
     messDesc: 'bái baiii',
     btnAccept: 'ukii lunnn',
