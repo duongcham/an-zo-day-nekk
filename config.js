@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'dù sao thì tớ vẫn thích cậu hê hê ヽ(・∀・)ﾉ',
     messDesc: 'nhớ nhắn tin cho tớ đó ( ´ ∀ `)ノ～ ♡',
     btnAccept: 'ukii lunnn',
-    messLink: 'fb.com' //link mess của các bạn.
+    messLink: 'https://www.facebook.com/messages/t/100024213828616' //link mess của các bạn.
 }
